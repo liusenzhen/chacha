@@ -24,7 +24,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"gitlab.com/yawning/chacha20.git/internal/api"
+	"github.com/liusenzhen/chacha/internal/api"
 )
 
 // Test vectors taken from:
