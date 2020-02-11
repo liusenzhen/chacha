@@ -1,5 +1,5 @@
-module gitlab.com/yawning/chacha20.git
-
+//module gitlab.com/yawning/chacha20.git
+module github.com/liusenzhen/chacha
 go 1.12
 
 require (
